@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IejqOQu2acs84MZaRdZvqX26rLSCCOU53/N252S+B1Nb21ShYDrwIsmSF4K8IEkaPOy4uDFzeNVQBBSzdUWsXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SENA\\source\\repos\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SENA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SENA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SENA\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SENA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SENA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SENA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
