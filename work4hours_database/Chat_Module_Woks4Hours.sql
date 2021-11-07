@@ -6,13 +6,9 @@ CREATE TABLE usuarios (
   nombres char(60) NOT NULL,
   apellidos char(60) NOT NULL,
   celular char(30) NOT NULL,
-  direccion varchar(500) NOT NULL,
   correo varchar(100) NOT NULL unique,
   contrasenna varchar(45) NOT NULL,
   fnac date NOT NULL,
-  fotop varchar(500),
-  servicio int(11) NOT NULL
-  
 );
 
 CREATE TABLE mensajes (
