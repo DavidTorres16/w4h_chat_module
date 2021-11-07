@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO WINDOWS\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj": {}
+    "C:\\Users\\lucho\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO WINDOWS\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj": {
+    "C:\\Users\\lucho\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO WINDOWS\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
+        "projectUniqueName": "C:\\Users\\lucho\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
         "projectName": "work4hours-modules-backend",
-        "projectPath": "C:\\Users\\USUARIO WINDOWS\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
-        "packagesPath": "C:\\Users\\USUARIO WINDOWS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO WINDOWS\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\obj\\",
+        "projectPath": "C:\\Users\\lucho\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
+        "packagesPath": "C:\\Users\\lucho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucho\\Desktop\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
