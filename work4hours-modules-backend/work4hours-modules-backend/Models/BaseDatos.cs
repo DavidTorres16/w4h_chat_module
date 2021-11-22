@@ -13,7 +13,7 @@ namespace work4hours_modules_backend.Models
 
         public BaseDatos()
         {
-            connection = new MySqlConnection("");
+            connection = new MySqlConnection("datasource= bajo6jvfjmaaa56nkxnz-mysql.services.clever-cloud.com;port=3306;username=umpc4kxiu8b4wjbn;password=mY26rlcKvrE9V12Uq4bI;database=bajo6jvfjmaaa56nkxnz");
 
         }
 
@@ -38,9 +38,9 @@ namespace work4hours_modules_backend.Models
                 connection.Close();
 
             }
-            catch
+            catch (Exception ex)
             {
-                result = "Error";
+                result = ex.Message;
             }
             return result;
         }

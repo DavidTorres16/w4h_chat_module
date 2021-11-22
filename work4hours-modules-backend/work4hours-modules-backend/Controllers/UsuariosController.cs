@@ -1,20 +1,53 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using work4hours_modules_backend.Models;
+using work4hours_modules_backend.Models.Entities;
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace work4hours_modules_backend.Controllers
 {
-    public class UsuariosController
+    [Route("api/[controller]")]
+    [ApiController]
+    public class UsuariosController : ControllerBase
     {
         BaseDatos bd = new BaseDatos();
-
-        public string insertarUsuario(string nombres, string apellidos, string celular, string correoElectronico, string contrasenna, string fecNac)
+        // GET: api/<UsuariosController>
+        [HttpGet]
+        public IEnumerable<string> Get()
         {
-            string sql = "INSERT INTO chat_module_works4hours.usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('" + nombres + "','" + apellidos + "','" + celular + "','" + correoElectronico + "','" + contrasenna + "','" + fecNac + "')";
+            return new string[] { "value1", "value2" };
+        }
+
+        // GET api/<UsuariosController>/5
+        [HttpGet("{id}")]
+        public string Get(int id)
+        {
+            return "value";
+        }
+
+        // POST api/<UsuariosController>
+        [HttpPost]
+        public string Post([FromBody] Usuarios user)
+        {
+            string sql = "INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('" + user.nombres + "','" + user.apellidos + "','" + user.celular + "','" + user.correoElectronico + "','" + user.contrasenna + "','" + user.fecNac + "')";
             string result = bd.ejecutarSQL(sql);
             return result;
+        }
+
+        // PUT api/<UsuariosController>/5
+        [HttpPut("{id}")]
+        public void Put(int id, [FromBody] string value)
+        {
+        }
+
+        // DELETE api/<UsuariosController>/5
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        {
         }
     }
 }
