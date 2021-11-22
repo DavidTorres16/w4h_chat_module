@@ -15,6 +15,7 @@ namespace work4hours_modules_backend.Controllers
     public class UsuariosController : ControllerBase
     {
         BaseDatos bd = new BaseDatos();
+        
         // GET: api/<UsuariosController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -29,11 +30,13 @@ namespace work4hours_modules_backend.Controllers
             return "value";
         }
 
+
+
         // POST api/<UsuariosController>
         [HttpPost]
         public string Post([FromBody] Usuarios user)
         {
-            string sql = "INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('" + user.nombres + "','" + user.apellidos + "','" + user.celular + "','" + user.correoElectronico + "','" + user.contrasenna + "','" + user.fecNac + "')";
+            string sql = "INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('" + user.nombres + "','" + user.apellidos + "','" + user.celular + "','" + user.correoElectronico + "','" + Seguridad.Encriptar(user.contrasenna) + "','" + user.fecNac + "')";
             string result = bd.ejecutarSQL(sql);
             return result;
         }
