@@ -1036,11 +1036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mariana\\OneDrive\\Escritorio\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
+      "projectUniqueName": "C:\\Users\\mariana\\OneDrive\\Documentos\\Carlos\\TRIMESTRE 4\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
       "projectName": "work4hours-modules-backend",
-      "projectPath": "C:\\Users\\mariana\\OneDrive\\Escritorio\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
+      "projectPath": "C:\\Users\\mariana\\OneDrive\\Documentos\\Carlos\\TRIMESTRE 4\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
       "packagesPath": "C:\\Users\\mariana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mariana\\OneDrive\\Escritorio\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\obj\\",
+      "outputPath": "C:\\Users\\mariana\\OneDrive\\Documentos\\Carlos\\TRIMESTRE 4\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mariana\\AppData\\Roaming\\NuGet\\NuGet.Config",

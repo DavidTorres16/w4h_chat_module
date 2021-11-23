@@ -13,7 +13,7 @@ namespace work4hours_modules_backend.Models
 
         public BaseDatos()
         {
-            connection = new MySqlConnection("datasource = localhost; port = 3306; username = root; password = ; database = chat_module_works4hours; SSLMode = none");
+            connection = new MySqlConnection("datasource= bajo6jvfjmaaa56nkxnz-mysql.services.clever-cloud.com;port=3306;username=umpc4kxiu8b4wjbn;password=mY26rlcKvrE9V12Uq4bI;database=bajo6jvfjmaaa56nkxnz");
         }
 
         public string ejecutarSQL(string sql)
@@ -60,7 +60,7 @@ namespace work4hours_modules_backend.Models
             }
             catch
             {
-                dt = null;
+                return null;
             }
             return dt;
         }
