@@ -7,6 +7,7 @@ namespace work4hours_modules_backend.Models.Entities
 {
     public class Usuarios
     {
+        public int idusuario { get; set; }
         public string nombres { get; set; }
         public string apellidos { get; set; }
         public string celular { get; set; }
