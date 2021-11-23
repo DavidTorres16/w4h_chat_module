@@ -52,5 +52,25 @@ namespace work4hours_modules_backend.Controllers
         public void Delete(int id)
         {
         }
+
+        public ActionResult Login(string correoElectronico, string contrasenna)
+        {
+            if (!string.IsNullOrEmpty(correoElectronico) && !string.IsNullOrEmpty(contrasenna))
+            {
+                var usuario = bd.Usuarios.FirstOrDefault(e => e.correoElectronico == correoElectronico && e.contrasenna == contrasenna);
+                if (usuario != null)
+                {
+                    return Index("Este usuario no existe");
+                }
+                else
+                {
+                    return RedirectToAction("Index");
+                }
+            }
+            else
+            {
+                return Index("Por favor llene todos los campos");
+            }
+        }
     }
 }
