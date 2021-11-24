@@ -12,6 +12,8 @@ namespace work4hours_modules_backend.Models.Entities
         public string fechafin { get; set; }
         public string horainicio { get; set; }
         public string horafin { get; set; }
+        public List<Mensajes> mensajes { get; set; }
+        public List<SalaUsuarios> salaUsuarios { get; set; }
 
     }
 }

@@ -8,7 +8,7 @@ namespace work4hours_modules_backend.Models.Entities
     public class SalaUsuarios
     {
         public int idSalaUsuario { get; set; }
-        public List<Sala> idsala { get; set; }
-        public List<Usuarios> idusuario { get; set; }
+        public int idsala { get; set; }
+        public int idusuario { get; set; }
     }
 }

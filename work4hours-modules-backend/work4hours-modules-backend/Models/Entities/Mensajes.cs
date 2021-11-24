@@ -10,7 +10,7 @@ namespace work4hours_modules_backend.Models.Entities
         public int idmensaje {get; set;}
         public string mensaje { get; set;}
         public string fecha { get; set;}
-        public List<Sala> idsala {get; set;}
-        public List<Usuarios> idusuario {get; set;}
+        public int idsala { get; set; }
+        public int idusuario { get; set; }
     }
 }
