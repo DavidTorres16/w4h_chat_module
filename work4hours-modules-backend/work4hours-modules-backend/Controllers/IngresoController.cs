@@ -24,11 +24,19 @@ namespace work4hours_modules_backend.Controllers
         }
 
         // GET api/<IngresoController>/5
-        [HttpGet("{correoElectro}/{contra}")]
-        public string Get(string correoElectro, string contra)
+        [HttpGet("{id}")]
+        public string Get(int id)
         {
-            string result = "";
-            string sql = $"SELECT * FROM usuarios WHERE correo = '{correoElectro}'";
+            return "value";
+        }
+
+
+        // POST api/<IngresoController>
+        [HttpPost]
+        public bool Post([FromBody] Usuarios user)
+        {
+            bool result = true;
+            string sql = $"SELECT * FROM usuarios WHERE correo = '{user.correoElectronico}'";
             DataTable dt = bd.getTable(sql);
 
             List<Usuarios> clientList = new List<Usuarios>();
@@ -45,35 +53,28 @@ namespace work4hours_modules_backend.Controllers
 
                           }).ToList();
 
+
             if (clientList.Count == 0)
             {
-                result = "Correo y/o contraseña incorrecta";
+                result = false;
             }
             else
             {
-                
-                if (correoElectro == clientList[0].correoElectronico)
+
+                if (user.correoElectronico == clientList[0].correoElectronico)
                 {
-                    if (Seguridad.Encriptar(contra) == clientList[0].contrasenna)
+                    if (Seguridad.Encriptar(user.contrasenna) == clientList[0].contrasenna)
                     {
-                        result = "Bienvenido";
+                        result = true;
                     }
                     else
                     {
-                        result = "Contraseña incorrecta";
+                        result = false;
                     }
                 }
             }
-            
 
             return result;
-        }
-
-
-        // POST api/<IngresoController>
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
         }
 
         // PUT api/<IngresoController>/5
