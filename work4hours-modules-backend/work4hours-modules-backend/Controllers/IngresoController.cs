@@ -33,9 +33,8 @@ namespace work4hours_modules_backend.Controllers
 
         // POST api/<IngresoController>
         [HttpPost]
-        public bool Post([FromBody] Usuarios user)
+        public List<Usuarios> Post([FromBody] Usuarios user)
         {
-            bool result = true;
             string sql = $"SELECT * FROM usuarios WHERE correo = '{user.correoElectronico}'";
             DataTable dt = bd.getTable(sql);
 
@@ -56,7 +55,7 @@ namespace work4hours_modules_backend.Controllers
 
             if (clientList.Count == 0)
             {
-                result = false;
+                return clientList;
             }
             else
             {
@@ -65,16 +64,16 @@ namespace work4hours_modules_backend.Controllers
                 {
                     if (Seguridad.Encriptar(user.contrasenna) == clientList[0].contrasenna)
                     {
-                        result = true;
+                        return clientList;
                     }
                     else
                     {
-                        result = false;
+                        return clientList;
                     }
                 }
             }
 
-            return result;
+            return clientList;
         }
 
         // PUT api/<IngresoController>/5
