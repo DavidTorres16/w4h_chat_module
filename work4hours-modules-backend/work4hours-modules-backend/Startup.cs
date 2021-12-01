@@ -16,6 +16,7 @@ namespace work4hours_modules_backend
 {
     public class Startup
     {
+        private readonly string _MyCors = "MyCors";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -32,6 +33,20 @@ namespace work4hours_modules_backend
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "work4hours_modules_backend", Version = "v1" });
             });
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy(name: _MyCors, builder =>
+                {
+                    //Cuando se despliegue el front, se utiliza el siguiente método//
+                    //builder.WithOrigins("URL del dominio");
+
+                    //Mientras trabajemos local usamos este//
+                    builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost").AllowAnyHeader().AllowAnyMethod();
+
+                });
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,6 +62,8 @@ namespace work4hours_modules_backend
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors(_MyCors);
 
             app.UseAuthorization();
 
