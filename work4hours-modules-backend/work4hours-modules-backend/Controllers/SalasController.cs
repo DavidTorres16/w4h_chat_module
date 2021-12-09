@@ -12,50 +12,39 @@ namespace work4hours_modules_backend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ChatController : ControllerBase
+    public class SalasController : ControllerBase
     {
         BaseDatos bd = new BaseDatos();
-        // GET: api/<ChatController>
+        // GET: api/<Controller>
         [HttpGet]
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
         }
 
-        // GET api/<ChatController>/5
+        // GET api/<Controller>/5
         [HttpGet("{id}")]
         public string Get(int id)
         {
             return "value";
         }
 
-        // POST api/<ChatController>
+        // POST api/<Controller>
         [HttpPost]
         public string Post([FromBody] Sala s)
         {
-            string sql = "";
-
-            foreach (SalaUsuarios su in s.salaUsuarios)
-            {
-                sql += $"INSERT INTO sala_usuario (idsala,idusuario) values ('{su.idsala}', '{su.idusuario}' );";
-
-            }
-            foreach (Mensajes mj in s.mensajes)
-            {
-                sql += $"INSERT INTO mensajes (mensaje, fecha, idsala, idusuario) VALUES('{mj.mensaje}', '{mj.fecha}', '{mj.idsala}', '{mj.idusuario}');";
-
-            }
+            string sql = $"INSERT INTO sala (fechainicio, fechafin, horainicio, horafin) values ('{s.fechainicio}','{s.fechafin}','{s.horainicio}','{s.horafin}');";
             string result = bd.ejecutarSQL(sql);
             return result;
         }
 
-        // PUT api/<ChatController>/5
+        // PUT api/<Controller>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
         }
 
-        // DELETE api/<ChatController>/5
+        // DELETE api/<Controller>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
