@@ -17,9 +17,9 @@ namespace work4hours_modules_backend.Models
 
         }
 
-        public string ejecutarSQL(string sql)
+        public bool ejecutarSQL(string sql)
         {
-            string result = "";
+            bool result = false;
             try
             {
                 connection.Open();
@@ -29,19 +29,16 @@ namespace work4hours_modules_backend.Models
 
                 if (countResult > -1)
                 {
-                    result = "Correcto";
-                }
-                else
-                {
-                    result = "Incorrecto";
+                    result = true;
                 }
                 connection.Close();
 
             }
             catch (Exception ex)
             {
-                result = ex.Message;
+                result = false;
             }
+
             return result;
         }
 

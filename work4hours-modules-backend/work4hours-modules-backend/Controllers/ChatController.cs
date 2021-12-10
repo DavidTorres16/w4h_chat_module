@@ -43,7 +43,7 @@ namespace work4hours_modules_backend.Controllers
 
         // POST api/<ChatController>
         [HttpPost]
-        public string Post([FromBody] Sala s)
+        public bool Post([FromBody] Sala s)
         {
             string sql = "";
 
@@ -54,11 +54,16 @@ namespace work4hours_modules_backend.Controllers
             }
             foreach (Mensajes mj in s.mensajes)
             {
-                sql += $"INSERT INTO mensajes (mensaje, fecha, idsala, idusuario) VALUES('{mj.mensaje}', '{mj.fecha}', '{mj.idsala}', '{mj.idusuario}');";
+                sql += $"INSERT INTO mensajes (mensaje, fecha, idsala, idusuario) VALUES('{mj.mensaje}', '{CurrentDate()}', '{mj.idsala}', '{mj.idusuario}');";
 
             }
-            string result = bd.ejecutarSQL(sql);
+            bool result = bd.ejecutarSQL(sql);
             return result;
+        }
+
+        public string CurrentDate()
+        {
+            return DateTime.Now.ToString("yyyy-MM-dd hh:mm:ss");
         }
 
         // PUT api/<ChatController>/5
