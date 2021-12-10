@@ -50,15 +50,15 @@ namespace work4hours_modules_backend.Controllers
         {
             string result = "";
 
-            if (UserExist(user.correoElectronico))
+            string sql = $"INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('{user.nombres}','{user.apellidos}','{user.celular}','{user.correoElectronico}','{Seguridad.Encriptar(user.contrasenna)}','{user.fecNac}')";
+            result = bd.ejecutarSQL(sql);
+            /*if (UserExist(user.correoElectronico))
             {
-                string sql = $"INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('{user.nombres}','{user.apellidos}','{user.celular}','{user.correoElectronico}','{Seguridad.Encriptar(user.contrasenna)}','{user.fecNac}')";
-                result = bd.ejecutarSQL(sql);
             }
             else
             {
                 result = "El usuario ya existe";
-            }
+            }*/
             return result;
 
         }

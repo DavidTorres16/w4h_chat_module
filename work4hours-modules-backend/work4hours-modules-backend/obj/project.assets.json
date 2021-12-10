@@ -1031,19 +1031,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp ryzen 5\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO WINDOWS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp ryzen 5\\Desktop\\Ejercicios Practica\\proyectoTrimestre4Back\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO WINDOWS\\Desktop\\SENA ORGANIZAR\\Nueva carpeta\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
       "projectName": "work4hours-modules-backend",
-      "projectPath": "C:\\Users\\hp ryzen 5\\Desktop\\Ejercicios Practica\\proyectoTrimestre4Back\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
-      "packagesPath": "C:\\Users\\hp ryzen 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp ryzen 5\\Desktop\\Ejercicios Practica\\proyectoTrimestre4Back\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO WINDOWS\\Desktop\\SENA ORGANIZAR\\Nueva carpeta\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\work4hours-modules-backend.csproj",
+      "packagesPath": "C:\\Users\\USUARIO WINDOWS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO WINDOWS\\Desktop\\SENA ORGANIZAR\\Nueva carpeta\\w4h_chat_module\\work4hours-modules-backend\\work4hours-modules-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp ryzen 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO WINDOWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1096,7 +1096,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

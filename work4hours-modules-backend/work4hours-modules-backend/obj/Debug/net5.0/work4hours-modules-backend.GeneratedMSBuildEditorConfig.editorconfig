@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = work4hours_modules_backend
+build_property.ProjectDir = C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\
