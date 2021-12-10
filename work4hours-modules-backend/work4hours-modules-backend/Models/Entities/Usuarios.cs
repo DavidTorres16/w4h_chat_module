@@ -14,5 +14,7 @@ namespace work4hours_modules_backend.Models.Entities
         public string correoElectronico { get; set; }
         public string contrasenna { get; set; }
         public string fecNac { get; set; }
+
+        public List<Mensajes> listMensajes { get; set; }
     }
 }

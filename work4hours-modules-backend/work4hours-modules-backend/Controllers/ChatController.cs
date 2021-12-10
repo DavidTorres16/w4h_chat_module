@@ -54,7 +54,7 @@ namespace work4hours_modules_backend.Controllers
             }
             foreach (Mensajes mj in s.mensajes)
             {
-                sql += $"INSERT INTO mensajes (mensaje, fecha, idsala, idusuario) VALUES('{mj.mensaje}', '{mj.fecha}', '{mj.idsala}', '{mj.idusuario}');";
+                sql += $"INSERT INTO mensajes (mensaje, fecha, idsala, idusuario,hora) VALUES('{mj.mensaje}', '{mj.fecha}', '{mj.idsala}', '{mj.idusuario}','{mj.hora}');";
 
             }
             string result = bd.ejecutarSQL(sql);
