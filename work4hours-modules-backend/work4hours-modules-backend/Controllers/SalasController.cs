@@ -31,10 +31,10 @@ namespace work4hours_modules_backend.Controllers
 
         // POST api/<Controller>
         [HttpPost]
-        public string Post([FromBody] Sala s)
+        public bool Post([FromBody] Sala s)
         {
             string sql = $"INSERT INTO sala (fechainicio, fechafin, horainicio, horafin) values ('{s.fechainicio}','{s.fechafin}','{s.horainicio}','{s.horafin}');";
-            string result = bd.ejecutarSQL(sql);
+            bool result = bd.ejecutarSQL(sql);
             return result;
         }
 

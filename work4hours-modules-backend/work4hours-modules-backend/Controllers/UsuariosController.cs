@@ -16,15 +16,22 @@ namespace work4hours_modules_backend.Controllers
     public class UsuariosController : ControllerBase
     {
         BaseDatos bd = new BaseDatos();
-        
         private bool UserExist(string email)
         {
             DataTable response = bd.getTable($"select * from usuarios where correo = '{email}' ");
 
-            if (response == null)
+            List<Usuarios> clientList = new List<Usuarios>();
+            clientList = (from DataRow dr in response.Rows
+                          select new Usuarios()
+                          {
+                              correoElectronico = dr["correo"].ToString()
+                          }).ToList();
+
+            if (clientList.Count == 0)
             {
                 return true;
-            }else
+            }
+            else
             {
                 return false;
             }
@@ -46,19 +53,19 @@ namespace work4hours_modules_backend.Controllers
 
         // POST api/<UsuariosController>
         [HttpPost]
-        public string Post([FromBody] Usuarios user)
+        public bool Post([FromBody] Usuarios user)
         {
-            string result = "";
-
-            string sql = $"INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('{user.nombres}','{user.apellidos}','{user.celular}','{user.correoElectronico}','{Seguridad.Encriptar(user.contrasenna)}','{user.fecNac}')";
-            result = bd.ejecutarSQL(sql);
-            /*if (UserExist(user.correoElectronico))
+            bool result;
+            
+            if (UserExist(user.correoElectronico))
             {
+                string sql = $"INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('{user.nombres}','{user.apellidos}','{user.celular}','{user.correoElectronico}','{Seguridad.Encriptar(user.contrasenna)}','{user.fecNac}')";
+                result = bd.ejecutarSQL(sql);
             }
             else
             {
-                result = "El usuario ya existe";
-            }*/
+                result = false;
+            }
             return result;
 
         }
