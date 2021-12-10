@@ -19,10 +19,10 @@ namespace work4hours_modules_backend.Controllers
 
         // GET api/<Controller>/5
         [HttpGet]
-        public List<Usuarios> Get([FromBody] Usuarios Usu)
+        public List<Usuarios> Get()
         {
             string sql = "";
-            sql = $"select * from usuarios where idusuario = {Usu.idusuario};";
+            sql = $"select * from usuarios;";
             DataTable dt = bd.getTable(sql);
 
             List<Usuarios> UsuariosChat = new List<Usuarios>();
@@ -32,10 +32,9 @@ namespace work4hours_modules_backend.Controllers
                                 idusuario = Convert.ToInt32(dr["idusuario"]),
                                 nombres = dr["nombres"].ToString(),
                             }).ToList();
-
             return UsuariosChat;
-
         }
+
 
         // POST api/<Controller>
         [HttpPost]
