@@ -38,3 +38,203 @@ C:\Users\mariana\OneDrive\Escritorio\w4h_chat_module\work4hours-modules-backend\
 C:\Users\mariana\OneDrive\Escritorio\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\ref\work4hours-modules-backend.dll
 C:\Users\mariana\OneDrive\Escritorio\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.pdb
 C:\Users\mariana\OneDrive\Escritorio\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.genruntimeconfig.cache
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.json
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.exe
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.deps.json
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.json
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.dev.json
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.AssemblyReference.cache
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfoInputs.cache
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfo.cs
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CoreCompileInputs.cache
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.Manifest.cache
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.xml
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\scopedcss\bundle\work4hours-modules-backend.styles.css
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.RazorTargetAssemblyInfo.cache
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CopyComplete
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\mariana\OneDrive\Documentos\Carlos\TRIMESTRE 4\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.genruntimeconfig.cache
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.json
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.exe
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.deps.json
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.xml
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\scopedcss\bundle\work4hours-modules-backend.styles.css
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CopyComplete
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\USUARIO WINDOWS\Desktop\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.genruntimeconfig.cache
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.json
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.exe
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.deps.json
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.json
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.dev.json
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.AssemblyReference.cache
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfoInputs.cache
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfo.cs
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CoreCompileInputs.cache
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.Manifest.cache
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.xml
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\scopedcss\bundle\work4hours-modules-backend.styles.css
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.RazorTargetAssemblyInfo.cache
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CopyComplete
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\hp ryzen 5\Desktop\Ejercicios Practica\proyectoTrimestre4Back\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.genruntimeconfig.cache
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.json
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.exe
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.deps.json
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.json
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.dev.json
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.AssemblyReference.cache
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfoInputs.cache
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.xml
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\scopedcss\bundle\work4hours-modules-backend.styles.css
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CopyComplete
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\USUARIO WINDOWS\Desktop\SENA ORGANIZAR\Nueva carpeta\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.genruntimeconfig.cache
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\appsettings.json
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.exe
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.deps.json
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.json
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.runtimeconfig.dev.json
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.AssemblyInfo.cs
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.Manifest.cache
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\staticwebassets\work4hours-modules-backend.StaticWebAssets.xml
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\scopedcss\bundle\work4hours-modules-backend.styles.css
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.RazorTargetAssemblyInfo.cache
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.csproj.CopyComplete
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\ref\work4hours-modules-backend.dll
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.pdb
+C:\Users\lucho\Desktop\w4h_chat_module\work4hours-modules-backend\work4hours-modules-backend\obj\Debug\net5.0\work4hours-modules-backend.genruntimeconfig.cache

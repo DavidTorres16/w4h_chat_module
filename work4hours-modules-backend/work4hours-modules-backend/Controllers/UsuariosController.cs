@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using work4hours_modules_backend.Models;
@@ -16,6 +17,19 @@ namespace work4hours_modules_backend.Controllers
     {
         BaseDatos bd = new BaseDatos();
         
+        private bool UserExist(string email)
+        {
+            DataTable response = bd.getTable($"select * from usuarios where correo = '{email}' ");
+
+            if (response == null)
+            {
+                return true;
+            }else
+            {
+                return false;
+            }
+        }
+
         // GET: api/<UsuariosController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -30,15 +44,23 @@ namespace work4hours_modules_backend.Controllers
             return "value";
         }
 
-
-
         // POST api/<UsuariosController>
         [HttpPost]
         public string Post([FromBody] Usuarios user)
         {
-            string sql = "INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('" + user.nombres + "','" + user.apellidos + "','" + user.celular + "','" + user.correoElectronico + "','" + Seguridad.Encriptar(user.contrasenna) + "','" + user.fecNac + "')";
-            string result = bd.ejecutarSQL(sql);
+            string result = "";
+
+            string sql = $"INSERT INTO usuarios (nombres, apellidos, celular, correo, contrasenna, fnac) VALUES ('{user.nombres}','{user.apellidos}','{user.celular}','{user.correoElectronico}','{Seguridad.Encriptar(user.contrasenna)}','{user.fecNac}')";
+            result = bd.ejecutarSQL(sql);
+            /*if (UserExist(user.correoElectronico))
+            {
+            }
+            else
+            {
+                result = "El usuario ya existe";
+            }*/
             return result;
+
         }
 
         // PUT api/<UsuariosController>/5
@@ -51,26 +73,6 @@ namespace work4hours_modules_backend.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-        }
-
-        public ActionResult Login(string correoElectronico, string contrasenna)
-        {
-            if (!string.IsNullOrEmpty(correoElectronico) && !string.IsNullOrEmpty(contrasenna))
-            {
-                var usuario = bd.Usuarios.FirstOrDefault(e => e.correoElectronico == correoElectronico && e.contrasenna == contrasenna);
-                if (usuario != null)
-                {
-                    return Index("Este usuario no existe");
-                }
-                else
-                {
-                    return RedirectToAction("Index");
-                }
-            }
-            else
-            {
-                return Index("Por favor llene todos los campos");
-            }
         }
     }
 }
