@@ -19,11 +19,11 @@ namespace work4hours_modules_backend.Controllers
         
 
         // GET api/<ChatController>/5
-        [HttpGet]
-        public List<Mensajes> Get([FromBody] Mensajes m)
+        [HttpGet("{id}")]
+        public List<Mensajes> Get(int id)
         {
             string sql = "";
-            sql = $"select * from mensajes where idsala={m.idsala};";
+            sql = $"select * from mensajes where idsala={id} order by fecha;";
             DataTable dt = bd.getTable(sql);
 
             List<Mensajes> mensajeslist = new List<Mensajes>();
