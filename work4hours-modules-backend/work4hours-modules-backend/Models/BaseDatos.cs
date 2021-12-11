@@ -13,7 +13,7 @@ namespace work4hours_modules_backend.Models
 
         public BaseDatos()
         {
-            connection = new MySqlConnection("datasource= bajo6jvfjmaaa56nkxnz-mysql.services.clever-cloud.com;port=3306;username=umpc4kxiu8b4wjbn;password=mY26rlcKvrE9V12Uq4bI;database=bajo6jvfjmaaa56nkxnz");
+            connection = new MySqlConnection("datasource=b2xtib5hykquk9s3mvho-mysql.services.clever-cloud.com; port=3306; username=uuyojgefw1stqwjc;password=bBFiQh58tyncaik1K6CI;database=b2xtib5hykquk9s3mvho");
 
         }
 

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using work4hours_modules_backend.Models;
@@ -15,27 +16,47 @@ namespace work4hours_modules_backend.Controllers
     public class SalasController : ControllerBase
     {
         BaseDatos bd = new BaseDatos();
-        // GET: api/<Controller>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
 
         // GET api/<Controller>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet]
+        public List<Usuarios> Get()
         {
-            return "value";
+            string sql = "";
+            sql = $"select * from usuarios;";
+            DataTable dt = bd.getTable(sql);
+
+            List<Usuarios> UsuariosChat = new List<Usuarios>();
+            UsuariosChat = (from DataRow dr in dt.Rows
+                            select new Usuarios()
+                            {
+                                idusuario = Convert.ToInt32(dr["idusuario"]),
+                                nombres = dr["nombres"].ToString(),
+                            }).ToList();
+            return UsuariosChat;
         }
+
 
         // POST api/<Controller>
         [HttpPost]
-        public bool Post([FromBody] Sala s)
+        public List<Sala> Post([FromBody] Sala s)
         {
-            string sql = $"INSERT INTO sala (fechainicio, fechafin, horainicio, horafin) values ('{s.fechainicio}','{s.fechafin}','{s.horainicio}','{s.horafin}');";
+            string sql = $"INSERT INTO sala (fechainicio, fechafin, horainicio, horafin) values ('{CurrentDate()}','2021-11-24','{s.horainicio}','{s.horafin}');";
             bool result = bd.ejecutarSQL(sql);
-            return result;
+            var result_ = bd.getTable("SELECT MAX(idsala) as idsala FROM sala");
+
+            List<Sala> mensajeslist = new List<Sala>();
+            mensajeslist = (from DataRow dr in result_.Rows
+                            select new Sala()
+                            {
+                                idSala = Convert.ToInt32(dr["idsala"]),
+                                                           
+                            }).ToList();
+            return mensajeslist;
+        }
+        
+        public string CurrentDate()
+        {
+            return DateTime.Now.ToString("yyyy-MM-dd");
         }
 
         // PUT api/<Controller>/5
