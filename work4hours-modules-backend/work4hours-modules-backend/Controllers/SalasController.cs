@@ -38,11 +38,25 @@ namespace work4hours_modules_backend.Controllers
 
         // POST api/<Controller>
         [HttpPost]
-        public bool Post([FromBody] Sala s)
+        public List<Sala> Post([FromBody] Sala s)
         {
-            string sql = $"INSERT INTO sala (fechainicio, fechafin, horainicio, horafin) values ('{s.fechainicio}','{s.fechafin}','{s.horainicio}','{s.horafin}');";
+            string sql = $"INSERT INTO sala (fechainicio, fechafin, horainicio, horafin) values ('{CurrentDate()}','2021-11-24','{s.horainicio}','{s.horafin}');";
             bool result = bd.ejecutarSQL(sql);
-            return result;
+            var result_ = bd.getTable("SELECT MAX(idsala) as idsala FROM sala");
+
+            List<Sala> mensajeslist = new List<Sala>();
+            mensajeslist = (from DataRow dr in result_.Rows
+                            select new Sala()
+                            {
+                                idSala = Convert.ToInt32(dr["idsala"]),
+                                                           
+                            }).ToList();
+            return mensajeslist;
+        }
+        
+        public string CurrentDate()
+        {
+            return DateTime.Now.ToString("yyyy-MM-dd");
         }
 
         // PUT api/<Controller>/5
