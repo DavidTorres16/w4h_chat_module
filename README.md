@@ -6,7 +6,7 @@
 ### Ruta raiz
      http://apiwt4aspnet-env.eba-nvbnf3km.us-east-1.elasticbeanstalk.com
 
-## Validar usuario
+## Controlador ingreso
 
 ### Metodo `POST` 
      http://apiwt4aspnet-env.eba-nvbnf3km.us-east-1.elasticbeanstalk.com/api/ingreso
