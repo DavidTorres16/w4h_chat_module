@@ -46,7 +46,7 @@ Este metodo registra a un usuario, se debe enviar un objeto con la siguiente est
     
 ### Metodo `GET`
 
-Este metodo response con un areglo de todos los usuarios registrados
+Este metodo responde con un areglo de todos los usuarios registrados
 
 ### Respuesta
 
@@ -74,3 +74,74 @@ Este metodo response con un areglo de todos los usuarios registrados
     
 ### Metodo `POST`
 
+Este metodo crea una nueva sala, se debe enviar un objeto con la siguiente estrctura
+
+    {
+          "fechainicio":"",
+          "fechafin":"",
+          "horainicio":"",
+          "horafin":""
+    }
+    
+### Respuesta
+
+`1` Id de la sala que se acaba de crear
+    
+## Controlador chat 
+     http://apiwt4aspnet-env.eba-nvbnf3km.us-east-1.elasticbeanstalk.com/api/chat
+     
+### Metodo `GET`
+    http://apiwt4aspnet-env.eba-nvbnf3km.us-east-1.elasticbeanstalk.com/api/chat/1
+    
+Este metodo retorna todos los mensajes que correspondan al `id` de la sala, que se agrega a la `URL`
+
+## Respuesta
+
+     [
+          {
+               "idmensaje": 1,
+               "mensaje": "Mensaje de ejemplo",
+               "fecha": "12/12/2021 12:00:00 AM",
+               "idsala": 1,
+               "idusuario": 1
+          },
+          {
+               "idmensaje": 2,
+               "mensaje": "Mensaje de ejemplo",
+               "fecha": "12/12/2021 12:00:00 AM",
+               "idsala": 1,
+               "idusuario": 2
+          }
+     ]
+
+
+### Metodo `POST`
+
+Se debe enviar por medio de este metodo un objeto con esta estrcutura
+
+     {
+          "fechainicio":"",
+          "fechafin":"",
+          "horainicio":"",
+          "horafin":"",
+          "mensajes":[
+               {
+                    "mensaje":"Mensaje de ejemplo",
+                    "fecha":"",
+                    "idsala":1,
+                    "idusuario":2
+               }
+          ],
+          "salaUsuarios": [
+               {
+                    "idsala":1,
+                    "idusuario":2
+               }
+          ]
+     }
+     
+### Respuesta 
+
+`True` Registro de mensaje exitoso
+
+`False` Registro fallido
